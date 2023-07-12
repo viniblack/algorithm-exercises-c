@@ -5,8 +5,8 @@
 ## Temas abordados:
 
 - Basic Declarations and Expressions [ 20/150]
-- Basic Part-II [ 0/7]
-- Basic Algorithm [ 0/75]
+- Basic Part-II [ 1/7]
+- Basic Algorithm [ 5/75]
 - Variable Type [ 0/18]
 - Input, Output [ 0/10]
 - Conditional Statement [ 0/26]
