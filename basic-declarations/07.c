@@ -35,6 +35,7 @@ int main()
     // | `%ld`                    | long int                | Imprime um valor inteiro longo decimal.                 |
     // | `%hd`                    | short int               | Imprime um valor inteiro curto.                         |
     // | `%lu`                    | unsigned long int       | Imprime um valor inteiro longo decimal sem sinal.       |
+    // | `%ls`                    | wchar_t*                | Imprime uma string de caracteres ampliada (wide string).|
     // | `%lf`                    | double                  | Imprime um valor de ponto flutuante.                    |
     // | `%lld`                   | long long int           | Imprime um valor inteiro longo longo decimal.           |
     // | `%llu`                   | unsigned long long int  | Imprime um valor inteiro longo longo decimal sem sinal. |
